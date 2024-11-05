@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pannelie
-- 👀 When summer is here, Im out in the garden maken new plans and planting flowers and different plants. When its colder, well yes, then you'll have me by the computer finding out new ways to code.
+- 👀 When summer is here, Im out in the garden making new plans, planting flowers and other plants. When its colder, well yes, then you'll have me by the computer finding out new ways to code.
 - 🌱 I’m currently learning about html and css on my journey to become a frontend developer. 
 - 💞️ I’m more than happy to learn more about tips and tricks around the web if you have any tricks up your sleeve. For now Im not so far in to be able to inspire others, but hope one day I will!
 - 😄 Pronouns: She/her
